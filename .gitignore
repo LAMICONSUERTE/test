@@ -1,0 +1,9 @@
+_DS_STORE
+
+NODE_MODULES
+
+*.TXT
+
+.ENV
+
+#COMMENTO
